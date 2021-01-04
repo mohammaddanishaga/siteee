@@ -1,0 +1,34 @@
+#aboutus {
+    text-align: center;
+    margin-top: 4%;
+}
+
+#cards {
+    margin: 0 auto; /* Added */
+    float: left; /* Added */
+    margin-left: 90px; /* Added */
+    margin-right: 50px;
+}
+
+#cente {
+    margin-left: 160px;
+    margin-right: 40px;
+    
+}
+
+#s-yt{ 
+    margin-right: 20px;
+}
+
+#social{
+    margin-left:210px;
+    float: left;
+}
+
+#frame{
+    margin-top: 80%;
+       text-align: center;
+}
+
+.cimg 
+}
